@@ -1,0 +1,4 @@
+﻿  cvtest2_canny.cpp
+c:\users\joker\source\repos\cvtest2_canny\cvtest2_canny\cvtest2_canny.cpp(49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\joker\source\repos\cvtest2_canny\cvtest2_canny\cvtest2_canny.cpp(50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  cvtest2_canny.vcxproj -> C:\Users\joker\source\repos\cvtest2_canny\x64\Debug\cvtest2_canny.exe
